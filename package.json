@@ -1,0 +1,16 @@
+{
+  "name": "simplerect",
+  "version": "1.0.0",
+  "description": "this is a simple rectiangle module discribes about lenght and Rectangle dimensions",
+  "main": "simplerect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"perimeter\"",
+    "\"Area\"",
+    "\"rectiangle\""
+  ],
+  "author": "kpriya",
+  "license": "ISC"
+}
